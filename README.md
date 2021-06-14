@@ -1,1 +1,1 @@
-# garbage_collector_learnings
+# Garbage Collector Learnings
